@@ -1,0 +1,8 @@
+# Colle ici un lien YouTube / Shorts / TikTok par ligne.
+# Les lignes qui commencent par # sont ignorées, tu peux t'en servir
+# pour ajouter des notes ou "désactiver" un lien sans le supprimer.
+#
+# Exemples (remplace-les par tes propres liens) :
+# https://www.youtube.com/watch?v=XXXXXXXXXXX
+# https://www.youtube.com/shorts/XXXXXXXXXXX
+# https://www.tiktok.com/@compte/video/1234567890123456789
