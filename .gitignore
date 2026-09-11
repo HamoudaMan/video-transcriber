@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated files
+resultats.csv
+audio/
+downloads/
+
+# Environment
+.env
+
+# IDE
+.vscode/
